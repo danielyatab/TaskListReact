@@ -1,0 +1,8 @@
+.container-todo {
+  max-height: 21rem;
+}
+
+.card {
+  height: 30rem;
+  max-height: 30rem;
+}
